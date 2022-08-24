@@ -1,7 +1,7 @@
-## Nematode Classification-
+# Nematode Classification-
 Deep learning for cell stage classification of first embryonic division across embryos of diverse Caenorhabditis sp.
 
-# How to use:
+## How to use:
 1. Run the IPYNB file in GoogleCollab
 
 ### Python deep learning module: 
